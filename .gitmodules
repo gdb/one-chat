@@ -1,0 +1,3 @@
+[submodule "vendor/node-DJs"]
+	path = vendor/node-DJs
+	url = https://github.com/louisremi/node-DJs.git
