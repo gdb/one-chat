@@ -1,5 +1,5 @@
 #!/bin/sh
 
 cd "$(dirname "$0")"
-exec node ../vendor/node-DJs/d.js ../lib/one-chat-server.js
+exec node ../vendor/node-DJs/d.js ../lib/http/one-chat-server.js
 
